@@ -1,0 +1,1 @@
+This project contains scripts to run the EOSIO Local Test Network, used in our [eosio free course on B9lab Academy](https://academy.b9lab.com/courses/course-v1:B9lab+EOSIO-FREE+2018-09/about).
